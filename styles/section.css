@@ -1,0 +1,9 @@
+.images {
+    display: flex;
+
+    gap: 24px
+}
+
+.images img {
+    width: 286px;
+}
